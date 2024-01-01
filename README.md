@@ -39,6 +39,15 @@ Which condition (variable) will be the most important in predicting whether a pa
 9. Using Github as a tool for collaboration
 
 
+# References
+- https://www.analyticsvidhya.com/blog/2021/11/neural-network-for-classification-with-tens
+- https://machinelearningmastery.com/neural-network-models-for-combined-classification-and-regression/
+- https://towardsdatascience.com/a-look-into-feature-importance-in-logistic-regression-models-a4aa970f9b0f
+- https://scikit-learn.org/stable/modules/permutation_importance.html
+- https://www.analyticsvidhya.com/blog/2021/11/training-neural-network-with-keras-and-basics-of-deep-learning/
+- https://abiyevanar.medium.com/complete-exploratory-data-analysis-guide-with-python-plotly-259174e58885
+
+
 
 
 
