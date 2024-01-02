@@ -3,9 +3,9 @@ Heart Disease Predictor project.
 
 This project uses the Heart Disease dataset from Kaggle. Here is our presentations [slides](https://www.canva.com/design/DAFdotrY1hA/EVLGTds1KHDa02-J5L70yg/edit) and [video](https://drive.google.com/file/d/1y1P5ds_2jYjox3cuqYuXXuRj2oG-4_Mp/view). For a complete walkthrough of the project, refer to the following jupyter notebooks in order form:
 
-Exploratory Data Analysis & Data Preparation
-Machine Learning
-Data-Driven Insights & Recommendations
+1. [Exploratory Data Analysis & Data Preparation](https://github.com/arav-behl/Heart-Disease-Predictor/blob/main/Data%20Driven%20Insights%20%26%20Recommendations.ipynb)
+2. [Machine Learning](https://github.com/arav-behl/Heart-Disease-Predictor/blob/main/Machine%20Learning.ipynb)
+3. [Data-Driven Insights & Recommendations](https://github.com/arav-behl/Heart-Disease-Predictor/blob/main/Data%20Driven%20Insights%20%26%20Recommendations.ipynb)
 
 # Problem Defintion
 Are we able to predict if a patient will suffer from heart disease in patients based on their medical conditions?
